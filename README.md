@@ -1,7 +1,5 @@
 ### Olá! Eu sou Luiz Moura 👋
 
-Sou estudante de Ciência da Computação pela UEPB, apaixonado por tecnologia e desenvolvimento de software. Meu foco está sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
-
 <hr>
 
 <div align="center">
