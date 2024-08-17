@@ -1,4 +1,4 @@
-### Olá! Eu sou Luiz Inácio Moura da Costa 👋
+### Olá! Eu sou Luiz 👋
 
 <hr>
 
