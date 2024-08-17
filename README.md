@@ -11,8 +11,6 @@ Sou estudante de Ciência da Computação pela UEPB, apaixonado por tecnologia e
   </a>
 </div>
 
-<hr>
-
 ### 🛠 Tecnologias que eu domino
 <div align="center" style="display: inline_block">
   <br>
