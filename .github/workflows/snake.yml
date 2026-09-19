@@ -1,0 +1,29 @@
+name: Gerar animação da cobrinha
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Gerar cobrinha das contribuições
+        uses: Platane/snk@v3
+        with:
+          github_user_name: luizmouradc
+          outputs: |
+            dist/github-snake.svg?color_snake=%23D8A7B1&color_dots=%230D1117,%232A1017,%23451D24,%237B2936,%23D8A7B1
+
+      - name: Publicar animação
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: ./dist
