@@ -45,7 +45,7 @@
 * **Banco de Dados:** Experiência com SQL, MySQL, SQLite e integração entre aplicações e bancos de dados.
 * **Projetos:** Desenvolvimento de aplicações com CRUD, APIs, autenticação, persistência de dados, testes e deploy.
 * **IA:** Interesse em Inteligência Artificial e em como ela pode ser integrada a aplicações reais.
-* **Experiência Acadêmica:** Atuação como monitor de Sistemas Operacionais na UEPB.
+* **Experiência Acadêmica:** Atuação como monitor de Sistemas Operacionais e também em Métodos Avançado de Programação na UEPB.
 
 <br clear="right" />
 
